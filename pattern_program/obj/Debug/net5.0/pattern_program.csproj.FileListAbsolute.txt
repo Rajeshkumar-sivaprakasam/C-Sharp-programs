@@ -1,0 +1,16 @@
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\pattern_program.exe
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\pattern_program.deps.json
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\pattern_program.runtimeconfig.json
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\pattern_program.runtimeconfig.dev.json
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\pattern_program.dll
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\ref\pattern_program.dll
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\bin\Debug\net5.0\pattern_program.pdb
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.csprojAssemblyReference.cache
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.AssemblyInfoInputs.cache
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.AssemblyInfo.cs
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.csproj.CoreCompileInputs.cache
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.dll
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\ref\pattern_program.dll
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.pdb
+C:\Users\RajeshkumarSivapraka\Downloads\C#  projects\pattern_program\obj\Debug\net5.0\pattern_program.genruntimeconfig.cache

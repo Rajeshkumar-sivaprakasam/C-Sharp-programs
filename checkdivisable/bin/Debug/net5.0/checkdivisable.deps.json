@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "checkdivisable/1.0.0": {
+        "runtime": {
+          "checkdivisable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "checkdivisable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

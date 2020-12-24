@@ -1,0 +1,16 @@
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\checkdivisable.exe
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\checkdivisable.deps.json
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\checkdivisable.runtimeconfig.json
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\checkdivisable.runtimeconfig.dev.json
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\checkdivisable.dll
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\ref\checkdivisable.dll
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\bin\Debug\net5.0\checkdivisable.pdb
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.csprojAssemblyReference.cache
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.AssemblyInfoInputs.cache
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.AssemblyInfo.cs
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.csproj.CoreCompileInputs.cache
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.dll
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\ref\checkdivisable.dll
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.pdb
+C:\Users\RajeshkumarSivapraka\Documents\checkdivisable\obj\Debug\net5.0\checkdivisable.genruntimeconfig.cache

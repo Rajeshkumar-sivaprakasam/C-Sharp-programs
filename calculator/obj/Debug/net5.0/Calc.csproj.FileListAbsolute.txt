@@ -1,0 +1,16 @@
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.csprojAssemblyReference.cache
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.AssemblyInfoInputs.cache
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.AssemblyInfo.cs
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\Calc.exe
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\Calc.deps.json
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\Calc.runtimeconfig.json
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\Calc.runtimeconfig.dev.json
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\Calc.dll
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\ref\Calc.dll
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\bin\Debug\net5.0\Calc.pdb
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.dll
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\ref\Calc.dll
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.pdb
+C:\Users\RajeshkumarSivapraka\Downloads\assignment form vivek\Calc\obj\Debug\net5.0\Calc.genruntimeconfig.cache
